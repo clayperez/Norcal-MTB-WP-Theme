@@ -1,0 +1,32 @@
+/*
+Theme Name: Norcal MTB 2016
+Theme URI: http://www.bikemonkey.net
+Author: Carlos Perez, Angel Garbarino, Bike Monkey Labs
+Author URI: https://www.bikemonkey.net
+Description: 2016 Bike Monkey build for Norcal MTB League.
+License: No License.
+*/
+
+
+/* not sure we need this -- maybe remove */
+    #footer {position: relative;
+      margin-top: -150px; /* negative value of footer height */
+      height: 150px;
+      clear:both;}
+
+/* FORCED STYLE CHANGES POST - MIGRATION */
+
+body {font-family: 'Varela Round', sans-serif; font-size: 16px; line-height: 21px; color: hsla(0, 0%, 100%, .9); }
+
+.dropdown-toggle { color:#fff; }
+.nav-link.w--current:hover, .dropdown-link:hover { color:#ccc400; }
+.dropdown-list {background:#000;}
+
+.slide_image {
+    background-position: 50% 50% !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+}
+
+/* HIDE LITTLE SLIDE NAVIGATION SQUARES*/
+.w-slider-nav-invert {display: none;}

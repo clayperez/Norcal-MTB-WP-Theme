@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<!-- This site was created in Webflow. http://www.webflow.com-->
+<!-- Last Published: Thu Feb 25 2016 18:30:40 GMT+0000 (UTC) -->
+<html data-wf-site="56a564faf7361fff543a3df2" data-wf-page="56ba393c92e79142091034f5">
+<head>
+  <meta charset="utf-8">
+  <title>template_3</title>
+  <meta property="og:title" content="template_3">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="generator" content="Webflow">
+  <link rel="stylesheet" type="text/css" href="css/normalize.css">
+  <link rel="stylesheet" type="text/css" href="css/webflow.css">
+  <link rel="stylesheet" type="text/css" href="css/norcal-hs-league.webflow.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js"></script>
+  <script>
+    WebFont.load({
+      google: {
+        families: ["Varela Round:400","Archivo Narrow:regular,italic,700,700italic"]
+      }
+    });
+  </script>
+  <script type="text/javascript" src="js/modernizr.js"></script>
+  <link rel="shortcut icon" type="image/x-icon" href="https://daks2k3a4ib2z.cloudfront.net/img/favicon.ico">
+  <link rel="apple-touch-icon" href="https://daks2k3a4ib2z.cloudfront.net/img/webclip.png">
+</head>
+<body>
+  <div id="header" data-collapse="small" data-animation="over-right" data-duration="600" data-doc-height="1" data-no-scroll="1" class="w-nav header">
+    <div class="w-container navbar-container">
+      <div class="w-container nav">
+        <div class="w-row header-row">
+          <div class="w-col w-col-5 w-col-small-5 w-col-tiny-5 button-column">
+            <a href="index.html" class="w-clearfix w-inline-block"><img width="128" id="NorCal-Logo-Grey" src="images/NorCal-Logo-color.png" class="norcal-logo">
+            </a>
+          </div>
+          <div class="w-col w-col-7 w-col-small-7 w-col-tiny-7 w-clearfix button-column">
+            <div class="w-nav-button hamberger">
+              <div class="w-icon-nav-menu"></div>
+            </div>
+            <nav role="navigation" class="w-nav-menu nav-menu"><a href="index.html" class="w-nav-link nav-link">Home</a>
+              <div data-delay="0" class="w-dropdown">
+                <div class="w-dropdown-toggle dropdown-toggle">
+                  <div class="dropdown-menu">Events</div>
+                </div>
+                <nav class="w-dropdown-list dropdown-list"><a href="template.html" class="w-dropdown-link dropdown-link">Races</a><a href="#" class="w-dropdown-link dropdown-link">Camps &amp; Clinics</a><a href="#" class="w-dropdown-link dropdown-link">Cyclefest</a>
+                </nav>
+              </div>
+              <div data-delay="0" class="w-dropdown">
+                <div class="w-dropdown-toggle dropdown-toggle">
+                  <div class="dropdown-menu">Resources</div>
+                </div>
+                <nav class="w-dropdown-list dropdown-list"><a href="template_2.html" class="w-dropdown-link dropdown-link">Coaches</a><a href="#" class="w-dropdown-link dropdown-link">Teams</a><a href="#" class="w-dropdown-link dropdown-link">Media</a>
+                </nav>
+              </div><a href="#" class="w-nav-link nav-link">About</a><a href="https://app.etapestry.com/onlineforms/NationalInterscholasticCyclin/SupportNorCalMTB.html" target="_blank" class="w-nav-link nav-link donate">Donate</a>
+            </nav>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+  <script type="text/javascript" src="js/webflow.js"></script>
+  <!--[if lte IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]-->
+  <style>
+    #footer {position: relative;
+    	margin-top: -150px; /* negative value of footer height */
+    	height: 150px;
+    	clear:both;}
+  </style>
+  <script>
+    $(function () {
+        $('#_NorCal-Logo-Grey').hover( 
+    	    function () {
+    	        $(this).attr('src', $(this).attr('src').replace('http://uploads.webflow.com/56a564faf7361fff543a3df2/56aa766a6e2e71590575513f_NorCal-Logo_grey.png', 'http://uploads.webflow.com/56a564faf7361fff543a3df2/56b0e7133b8957cb2c3b5a74_NorCal-Logo_color.png') );
+    	        console.log( $(this).attr('src'),"first");
+    	    },
+      		function () {
+    	        $(this).attr('src', $(this).attr('src').replace('http://uploads.webflow.com/56a564faf7361fff543a3df2/56b0e7133b8957cb2c3b5a74_NorCal-Logo_color.png', 'http://uploads.webflow.com/56a564faf7361fff543a3df2/56aa766a6e2e71590575513f_NorCal-Logo_grey.png') );
+    	        console.log( $(this).attr('src'),"second");
+    	    }
+      );
+    });
+  </script>
+</body>
+</html>
