@@ -1,0 +1,604 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"current",
+				"current_period_end"
+			],
+			[
+				"existst",
+				"existingCustomer"
+			],
+			[
+				"exis",
+				"existingCustomer"
+			],
+			[
+				"sub",
+				"subscriptionid"
+			],
+			[
+				"strip",
+				"stripeCustomerId"
+			],
+			[
+				"storm",
+				"stormpath_client"
+			],
+			[
+				"curren",
+				"current_period_end"
+			],
+			[
+				"grace",
+				"gracePeriodTime"
+			],
+			[
+				"late",
+				"latestVersion"
+			],
+			[
+				"distribu",
+				"distributionPath"
+			],
+			[
+				"even",
+				"eventName"
+			],
+			[
+				"unique",
+				"uniqueID"
+			],
+			[
+				"kitty",
+				"kittySchema"
+			],
+			[
+				"serv",
+				"serverHostName"
+			],
+			[
+				"init",
+				"initialize"
+			],
+			[
+				"userA",
+				"userappKEY"
+			],
+			[
+				"twi",
+				"twilioSECRET"
+			],
+			[
+				"mailch",
+				"mailchimpLIST_ID"
+			],
+			[
+				"mail",
+				"mailchimpAPI_ID"
+			],
+			[
+				"NMAP",
+				"NMAPBIN"
+			],
+			[
+				"Sho",
+				"shopifyData"
+			],
+			[
+				"redac",
+				"redactor-script"
+			],
+			[
+				"reque",
+				"requestdata"
+			],
+			[
+				"cpt_",
+				"cpt_shopify_apiPassword"
+			],
+			[
+				"cpt_shopify_a",
+				"cpt_shopify_apiKey"
+			],
+			[
+				"cpt_fb",
+				"cpt_fbshareurl"
+			],
+			[
+				"base",
+				"basePrice"
+			],
+			[
+				"outer",
+				"outerHTML"
+			],
+			[
+				"out",
+				"outerHTML"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"no",
+				"no-repeat"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"add li",
+				"SublimeGit: Add License"
+			],
+			[
+				"add lice",
+				"SublimeGit: Add License"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"wp",
+				"Snippet: Wordpress header.php"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 118.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/admin/Google Drive/APPS/norcalmtb.org/README.md",
+		"/Users/admin/Google Drive/APPS/rhesus.io/app.rhesus.io/www/views/partials/left-menu.ejs",
+		"/Users/admin/Google Drive/APPS/www.rhes.us/rhesusPayloads/e/package.json",
+		"/Users/admin/Google Drive/APPS/www.rhes.us/rhesusPayloads/e/main.js",
+		"/Users/admin/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/admin/Google Drive/APPS/www.rhes.us/rhesusPayloads/e/rhesusServer.js",
+		"/Users/admin/Google Drive/APPS/www.rhes.us/rhesusPayloads/e/printresults.html",
+		"/Users/admin/Google Drive/APPS/www.rhes.us/rhesusPayloads/e/appcore.js",
+		"/Users/admin/Google Drive/APPS/www.rhes.us/rhesusPayloads/e/utility.js",
+		"/Users/admin/Google Drive/APPS/rhesus.io/app.rhesus.io/www/views/partials/header.ejs",
+		"/Users/admin/Google Drive/APPS/www.rhes.us/rhesusPayloads/e/resources/css/style.css",
+		"/Users/admin/Google Drive/APPS/www.rhes.us/rhesusPayloads/e/resources/css/default.css",
+		"/Users/admin/Google Drive/APPS/www.rhes.us/rhesusPayloads/e/resources/css/styleLight.css",
+		"/Users/admin/Google Drive/APPS/rhesus.io/README.md",
+		"/Users/Carlos/Google Drive/APPS/www.rhes.us/rhesusPayloads/e/README.md",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/views/dashboard.ejs",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/edumix/css/foundation.css",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/edumix/css/style.css",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/edumix/js/slicknav/slicknav.css",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/views/partials/left-menu.ejs",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/app.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/dashboard-routes.js",
+		"/Users/Carlos/Google Drive/APPS/www.rhes.us/rhesusPayloads/e/config.js",
+		"/Users/Carlos/Google Drive/APPS/www.rhes.us/rhesusPayloads/e/rhesusServer.js",
+		"/Users/Carlos/Google Drive/APPS/www.rhes.us/rhesusPayloads/e/appcore.js",
+		"/Users/Carlos/Google Drive/APPS/www.rhes.us/rhesusPayloads/e/index.html",
+		"/Users/Carlos/Google Drive/APPS/www.rhes.us/rhesusPayloads/e/main.js",
+		"/Users/Carlos/Google Drive/APPS/www.rhes.us/rhesusPayloads/e/rhesusNetworkInterfaces.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/mothership-routes.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/payment-routes.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/css/style.css",
+		"/Users/Carlos/Google Drive/APPS/www.rhes.us/rhesusPayloads/e/globalsetup.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/public-routes.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/views/partials/topnav.ejs",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/README.md",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/config.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/views/partials/site-wide-javascript.ejs",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/views/partials/footer.ejs",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/views/home.ejs",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/views/404.ejs",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/views/accountsettings.ejs",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/views/partials/dashboard-container-end.ejs",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/views/partials/dashboard-container-start.ejs",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/edumix/chart.html",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/views/partials/header.ejs",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/views/pricing.ejs",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/views/partials/simplenav.ejs",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/js/script.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/edumix/js/slicknav/jquery.slicknav.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/edumix/js/app.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/views/partials/breadcrumbs.ejs",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/views/partials/right-menu.ejs",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/views/partials/copyright.ejs",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/views/partials/right-side-menu.ejs",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/css/style.scss",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/edumix/sass/sidebar.scss",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/edumix/sass/css/sidebar.css",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/css/sidebar.scss",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/edumix/index.html",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/www/edumix/button.html",
+		"/Users/Carlos/Google Drive/APPS/www.rhes.us/rhesusPayloads/e/utility.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/loggedin-routes.js",
+		"/Users/Carlos/Library/Application Support/Sublime Text 2/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/Carlos/Google Drive/APPS/www.rhes.us/rhesusPayloads/e/resources/css/style.css",
+		"/Users/Carlos/Google Drive/APPS/www.rhes.us/rhesusPayloads/e/resources/css/styleLight.css",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/package.json",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/app.rhesus.io/API-routes.js",
+		"/Users/Carlos/Google Drive/APPS/www.rhes.us/rhesusPayloads/e/package.json",
+		"/Users/Carlos/Google Drive/APPS/www.rhes.us/rhesusPayloads/e/.gitignore",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/sftp-config.json",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/.gitignore",
+		"/Users/Carlos/Library/Application Support/Sublime Text 2/Packages/SFTP/Default (OSX).sublime-keymap",
+		"/Users/Carlos/Google Drive/APPS/www.rhes.us/rhesusPayloads/e/node_modules/libnmap/lib/libnmap.js",
+		"/Users/Carlos/Google Drive/APPS/www.rhes.us/rhesusPayloads/e/fixtures/certificate.sh",
+		"/Users/Carlos/Google Drive/APPS/www.rhes.us/rhesusPayloads/build.js",
+		"/Users/Carlos/Google Drive/APPS/www.rhes.us/rhesusPayloads/e2/delete.txt",
+		"/Users/Carlos/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Carlos/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Carlos/Google Drive/APPS/www.rhes.us/rhesusPayloads/e/electron-testing.js",
+		"/Users/Carlos/Library/Application Support/Sublime Text 2/Packages/User/SFTP.errors.log",
+		"/Users/admin/Google Drive/APPS/rhesus.io/app.rhesus.io/app.js",
+		"/Users/admin/Google Drive/APPS/rhesus.io/app.rhesus.io/www/views/dashboard.ejs",
+		"/Users/admin/Google Drive/APPS/rhesus.io/app.rhesus.io/www/views/404.ejs",
+		"/Users/admin/Google Drive/APPS/rhesus.io/app.rhesus.io/www/views/home.ejs",
+		"/Users/admin/Google Drive/APPS/rhesus.io/app.rhesus.io/www/js/script.js",
+		"/Users/admin/Google Drive/APPS/rhesus.io/app.rhesus.io/www/css/style.scss",
+		"/Users/admin/Library/Application Support/Sublime Text 2/Packages/DocBlockr/Base File.sublime-settings",
+		"/Users/admin/Google Drive/APPS/rhesus.io/app.rhesus.io/package.json",
+		"/Users/admin/Google Drive/APPS/rhesus.io/.gitignore",
+		"/Users/admin/Google Drive/APPS/rhesus.io/hello.js",
+		"/Users/admin/Google Drive/APPS/rhesus.io/sftp-config.json",
+		"/Users/admin/Library/Application Support/Sublime Text 2/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/admin/Library/Application Support/Sublime Text 2/Packages/User/Terminal.sublime-settings",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/package.json",
+		"/Users/admin/Google Drive/APPS/rhesus.io/rhesus.js",
+		"/Users/Carlos/Google Drive/APPS/rhesus.io/rhesus.js",
+		"/Users/admin/Google Drive/APPS/rhesus.io/public/live/index.html",
+		"/Users/admin/Downloads/rad.rhesus",
+		"/Users/admin/Google Drive/APPS/rhesus.io/public/index.html",
+		"/Users/admin/Google Drive/APPS/rhesus.io/public/fonts/livepost/css/livepost.css",
+		"/Users/admin/Google Drive/APPS/rhesus.io/dbmodels/liveresults.js",
+		"/Users/admin/Google Drive/APPS/rhesus.io/public/js/app.js",
+		"/Users/admin/Google Drive/APPS/rhesus.io/dbmodels/race.js",
+		"/Users/admin/Google Drive/APPS/rhesus.io/package.json",
+		"/Users/admin/Downloads/new_event (1).rhesus",
+		"/Users/admin/Google Drive/APPS/rhesus.io/resultsServer.js",
+		"/Users/admin/Google Drive/APPS/rhesus.io/public/js/global.js",
+		"/Users/admin/Google Drive/APPS/rhesus.io/versions/2.0/rhesusServer.js",
+		"/Users/admin/Google Drive/APPS/rhesus.io/versions/2.0/rhesus/package.json",
+		"/Users/admin/Google Drive/APPS/rhesus.io/payloads/2.0/rhesusServer.js",
+		"/Users/admin/Google Drive/APPS/rhesus.io/models/race.js",
+		"/Users/admin/Google Drive/APPS/rhesus.io/models/rhesus.js",
+		"/Users/admin/Google Drive/APPS/rhesus.io/models/kitty.js",
+		"/Users/admin/Google Drive/APPS/rhesus.io/public/ember-widgets/js/ember-widgets.js",
+		"/Users/admin/Google Drive/APPS/rhesus.io/public/ember-widgets/js/ember-widgets.min.js",
+		"/Users/admin/Google Drive/APPS/rhesus.io/public/js/websocket_adapter.js",
+		"/Users/admin/Google Drive/APPS/rhesus.io/public/js/localstorage_adapter.js",
+		"/Users/admin/Google Drive/APPS/rhesus.io/public/js/adapters.js",
+		"/Users/admin/Google Drive/APPS/rhesus.io/public/favicon/code.txt",
+		"/Users/admin/Google Drive/APPS/rhesus.io/public/css/skeleton.css",
+		"/Users/admin/Downloads/Skeleton-2.0.4/css/skeleton.css",
+		"/Users/admin/Downloads/Skeleton-2.0.4/index.html",
+		"/Users/admin/Google Drive/APPS/rhesus.io/public/Skeleton-2.0.4/css/skeleton.css",
+		"/Users/admin/Google Drive/APPS/rhesus.io/public/css/style.css",
+		"/Users/admin/Library/Application Support/Sublime Text 2/Packages/User/HTML.sublime-settings",
+		"/Users/admin/Google Drive/APPS/rhesus.io/public/css/animation.css",
+		"/Users/admin/Google Drive/APPS/rhesus.io/public/js/pourover.js",
+		"/Users/admin/Google Drive/APPS/rhesus.io/public/js/minilog.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Download for ",
+			" Installer",
+			"MAC",
+			"\n                            ",
+			"\n                                            <a",
+			"win32",
+			"32",
+			"Your saved race data",
+			"dmg",
+			"osx",
+			"handleStartupEvent",
+			"./bower_components/jquery/dist",
+			"print",
+			"searchForReadersWithDNS",
+			"http://rhesus.io",
+			"heartbeat",
+			"LLRP",
+			"drawreaderinterface",
+			"antenna",
+			"center ",
+			"center",
+			"50em",
+			"10em",
+			"50em",
+			"top-bar-section",
+			"www.rhesus",
+			"<p><strong>Choose Plan</strong></p>",
+			"Plan Options",
+			"Monthly Plans",
+			"<label><p><strong>",
+			"stripe",
+			"customData",
+			"postRegistrationHandler",
+			".user",
+			"enterprise",
+			"api",
+			"env",
+			".end()",
+			"error :",
+			"error ",
+			"ERROR ",
+			"error ",
+			"\"ERROR\":",
+			"rhesusApp.settings.expirationTimestamp",
+			"deleteSubscriptionAltogether",
+			"stripeCustomerId",
+			"warnOfImpendingExpiration",
+			"grace",
+			"gracePeriodTime",
+			"processAppExpiration",
+			"moment",
+			"moment.",
+			"moment",
+			"subscription",
+			".utc",
+			"<button",
+			"Button",
+			"button",
+			"Button",
+			"button",
+			"Button",
+			"button",
+			"Button",
+			"button",
+			"Button",
+			"button",
+			"Button",
+			"button",
+			"Button",
+			"button",
+			"<label>Change",
+			"Choose Plan",
+			"}",
+			".badge.",
+			".now()",
+			"Choose Plan",
+			"storeSubscriptionData",
+			"subscription.id, subscription",
+			"storeSubscriptionData",
+			"stripeCustomerId",
+			"storeSubscriptionData",
+			"createSubscription",
+			"data-changeplan",
+			"changeplan",
+			"stripeCustomerId",
+			"storeSubscriptionData",
+			"$planSelect.data(\"changeplan\")",
+			"updateSubscription",
+			", ",
+			"storesub",
+			"log.info",
+			".end()",
+			"data(\"description\")",
+			"value",
+			"$this",
+			"stripe-enterprise",
+			"updateStormpathUser",
+			"buyPlan",
+			", ",
+			"customer",
+			"stripeCustomerId",
+			"\n    ",
+			"planToken",
+			"stripeCustomerId",
+			"post.",
+			"query.",
+			"api",
+			"enterprise",
+			"stormpath_express.",
+			"stormpath_express",
+			"stormpath",
+			"client",
+			",stormpath_client",
+			"stormpath_express",
+			"stormpath_client",
+			"plandescription",
+			"stormpath",
+			"stormpath_client",
+			"stormpath_express",
+			"class=\"bar\">",
+			"small",
+			".btn",
+			"badge",
+			"span",
+			"include ",
+			"p><strong",
+			"On-Call Support",
+			"span"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"elapsedtime",
+			"\"year\"",
+			"elpasedtime",
+			"agebracket",
+			"lastname",
+			"firstname",
+			"\"route\"",
+			"\"bib\"",
+			"Elpased",
+			"Bracket\"",
+			"Name\":",
+			"\"BIB\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 56.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.git-commit":
+	{
+		"height": 98.0
+	},
+	"output.git-push":
+	{
+		"height": 98.0
+	},
+	"output.sftp":
+	{
+		"height": 399.0
+	},
+	"replace":
+	{
+		"height": 108.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Carlos/Google Drive/APPS/Sublime Text/rhesus.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 321.0,
+	"status_bar_visible": true
+}

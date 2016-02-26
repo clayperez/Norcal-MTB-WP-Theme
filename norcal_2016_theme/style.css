@@ -21,6 +21,9 @@ body {font-family: 'Varela Round', sans-serif; font-size: 16px; line-height: 21p
 .dropdown-toggle { color:#fff; }
 .nav-link.w--current:hover, .dropdown-link:hover { color:#ccc400; }
 .dropdown-list {background:#000;}
+.w-dropdown-link.w--current { color:#ccc400; }
+.w-dropdown-toggle {padding-right:0;}
+.w-icon-dropdown-toggle {display: none;}
 
 .slide_image {
     background-position: 50% 50% !important;
@@ -28,5 +31,55 @@ body {font-family: 'Varela Round', sans-serif; font-size: 16px; line-height: 21p
     background-repeat: no-repeat !important;
 }
 
+.w-section {position: relative;z-index: 100;}
+
+.blackbox { background:rgba(0,0,0,0.7); padding:40px; margin:20px auto; }
+.blackbox:last-of-type { margin-bottom:200px; }
+
+img {
+    padding-top:0px
+}
+#NorCal-Logo-Grey {
+    padding-top:15px 
+}
 /* HIDE LITTLE SLIDE NAVIGATION SQUARES*/
 .w-slider-nav-invert {display: none;}
+
+/* HEADING CSS*/
+H1 {
+    font-family: 'Archivo Narrow', sans-serif !important;
+    font-size: 36px !important;
+    line-height: 44px !important;
+    font-weight: 700 !important;
+    text-align: center !important;
+    text-transform: uppercase !important;
+    color: white !important;
+    }
+H2 {}
+H3 {}
+H4 {
+    height: 17px !important;
+    font-family: 'Archivo Narrow', sans-serif !important;
+    color: #e5e5e5 !important;
+    font-size: 23px !important;
+    font-weight: 400 !important;
+    line-height:1px !important;
+    }
+H5 {
+    font-family: 'Archivo Narrow', sans-serif !important;
+    color: #b0b0b0  !important;
+    font-size:18px  !important;
+    font-weight:700 !important;
+    line-height:1px !important;
+}
+
+@media (min-width: 300px){
+.col-md-6 {
+    float:left;
+    width: 50%;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+}
