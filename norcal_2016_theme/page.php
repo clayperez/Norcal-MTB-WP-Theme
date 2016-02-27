@@ -2,8 +2,8 @@
 <?php get_header(); ?>
 <style>
   /* page.php */
-  .header {position:static;background:#333;}
-  .footer {position:fixed;bottom:0;background:#333;}
+  .header {position:fixed;background:#000;}
+  .footer {bottom:0;background:#000;}
 </style>
 <?php get_template_part('content', 'navbar'); ?>
 

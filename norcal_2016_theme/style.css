@@ -19,9 +19,10 @@ License: No License.
 body {font-family: 'Varela Round', sans-serif; font-size: 16px; line-height: 21px; color: hsla(0, 0%, 100%, .9); }
 
 .dropdown-toggle { color:#fff; }
-.nav-link.w--current:hover, .dropdown-link:hover { color:#ccc400; }
+.nav-link.w--current:hover, .dropdown-link:hover { color:#fcc04f !important; }
+.nav-link:hover{color:#fcc04f !important;} 
 .dropdown-list {background:#000;}
-.w-dropdown-link.w--current { color:#ccc400; }
+.w-dropdown-link.w--current { color:#fcc04f; }
 .w-dropdown-toggle {padding-right:0;}
 .w-icon-dropdown-toggle {display: none;}
 
@@ -55,8 +56,24 @@ H1 {
     text-transform: uppercase !important;
     color: white !important;
     }
-H2 {}
-H3 {}
+H2 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: 'Archivo Narrow', sans-serif;
+    color: #222;
+    font-size: 30px;
+    line-height: 36px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+    }
+H3 {
+    margin-top:0px;
+    margin-bottom: 10px;
+    font-size: 24px;
+    line-height: 30px;
+    font-weight: bold;
+    }
 H4 {
     height: 17px !important;
     font-family: 'Archivo Narrow', sans-serif !important;
@@ -70,16 +87,47 @@ H5 {
     color: #b0b0b0  !important;
     font-size:18px  !important;
     font-weight:700 !important;
-    line-height:1px !important;
+    line-height:20px !important;
+}
+H6{
+    font-family: 'Archivo Narrow', sans-serif;
+    color: #000;
+    font-size: 20px;
+    line-height: 18px;
+    font-weight: 400;
+    text-align: center;
+}
+p {
+    margin-bottom:0px !important; /* overwrite webflow margin */
+}
+.content-column {
+    padding:10px 30px;   
+}
+.one_fifth {
+    padding:0px !important;
+}
+.page_icons {
+    margin-right:10px;
+}
+/* On pages with fixed header allow space for upper section*/
+#sectionRepeater_1 {
+    margin-top:100px;
+}
+/* Paragraph for Sections */
+.section-text{
+    font-family: 'Varela Round', sans-serif;
+    font-size: 16px;
+    line-height: 27px;
+    padding:10px;
+}
+/*Buttons*/
+.race-flyer-button{ padding:10px; }
+/*move anchor tag up to adjust for navigation */
+.w-section > a{
+    position:relative !important;
+    top:-75px !important;
+    float:left !important;
 }
 
-@media (min-width: 300px){
-.col-md-6 {
-    float:left;
-    width: 50%;
-    position: relative;
-    min-height: 1px;
-    padding-right: 15px;
-    padding-left: 15px;
-}
-}
+/*SliderWD*/
+

@@ -71,8 +71,8 @@
       </div>
 
       <!-- BEGIN: MENU BUTTON FOR SMALLER SCREENS -->
-      <div class="w-nav-button menu-dropdown">
-        <div class="w-icon-nav-menu"></div>
+      <!--<div class="w-nav-button menu-dropdown">-->
+        <!--<div class="w-icon-nav-menu"></div>-->
       </div>
       <!-- END: MENU BUTTON FOR SMALLER SCREENS -->
     </div>

@@ -216,6 +216,13 @@
 	},
 	"file_history":
 	[
+		"/Users/admin/Google Drive/APPS/norcalmtb.org/norcal_2016_theme/header.php",
+		"/Users/admin/Google Drive/APPS/norcalmtb.org/norcal_2016_theme/content-sections.php",
+		"/Users/admin/Google Drive/APPS/norcalmtb.org/norcal_2016_theme/style.css",
+		"/Users/admin/Google Drive/APPS/norcalmtb.org/norcal_2016_theme/page.php",
+		"/Users/admin/Google Drive/APPS/norcalmtb.org/norcal_2016_theme/content-pageheader.php",
+		"/Users/admin/Google Drive/APPS/norcalmtb.org/norcal_2016_theme/template.html",
+		"/Users/admin/Google Drive/APPS/norcalmtb.org/norcal_2016_theme/content-navbar.php",
 		"/Users/admin/Google Drive/APPS/norcalmtb.org/README.md",
 		"/Users/admin/Google Drive/APPS/rhesus.io/app.rhesus.io/www/views/partials/left-menu.ejs",
 		"/Users/admin/Google Drive/APPS/www.rhes.us/rhesusPayloads/e/package.json",
@@ -336,14 +343,7 @@
 		"/Users/admin/Google Drive/APPS/rhesus.io/public/js/adapters.js",
 		"/Users/admin/Google Drive/APPS/rhesus.io/public/favicon/code.txt",
 		"/Users/admin/Google Drive/APPS/rhesus.io/public/css/skeleton.css",
-		"/Users/admin/Downloads/Skeleton-2.0.4/css/skeleton.css",
-		"/Users/admin/Downloads/Skeleton-2.0.4/index.html",
-		"/Users/admin/Google Drive/APPS/rhesus.io/public/Skeleton-2.0.4/css/skeleton.css",
-		"/Users/admin/Google Drive/APPS/rhesus.io/public/css/style.css",
-		"/Users/admin/Library/Application Support/Sublime Text 2/Packages/User/HTML.sublime-settings",
-		"/Users/admin/Google Drive/APPS/rhesus.io/public/css/animation.css",
-		"/Users/admin/Google Drive/APPS/rhesus.io/public/js/pourover.js",
-		"/Users/admin/Google Drive/APPS/rhesus.io/public/js/minilog.js"
+		"/Users/admin/Downloads/Skeleton-2.0.4/css/skeleton.css"
 	],
 	"find":
 	{
@@ -361,6 +361,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"w-dropdown",
+			"bm",
+			"w-dropdown-toggle",
+			"header-nav-link",
 			"Download for ",
 			" Installer",
 			"MAC",
@@ -484,10 +488,6 @@
 			"small",
 			".btn",
 			"badge",
-			"span",
-			"include ",
-			"p><strong",
-			"On-Call Support",
 			"span"
 		],
 		"highlight": true,
