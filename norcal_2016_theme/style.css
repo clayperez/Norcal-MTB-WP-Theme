@@ -130,4 +130,14 @@ p {
 }
 
 /*SliderWD*/
+#wds_container1_0 {
+    margin-top:70px;
+}
 
+/* FIX FOR SECTION MARGIN WHEN SCALED */
+@media (max-width: 767px){
+    .homebody {
+        padding-right: 0;
+        padding-left: 0;
+    }
+}
